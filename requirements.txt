@@ -1,0 +1,8 @@
+streamlit
+streamlit_option_menu
+requests
+Pillow
+streamlit_lottie
+plotly.express
+json
+base64
