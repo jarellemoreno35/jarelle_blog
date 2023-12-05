@@ -1,7 +1,6 @@
 import base64
 import streamlit as st
 from PIL import Image
-from streamlit_option_menu import option_menu
 import plotly.express as px
 
 def app():   
